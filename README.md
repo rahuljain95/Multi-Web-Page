@@ -1,1 +1,1 @@
-# Multi-Web-Page: This is milti Web Page Assignment.
+# Multi-Web-Page: This is multi Web Page Assignment.
